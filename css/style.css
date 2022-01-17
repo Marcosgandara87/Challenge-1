@@ -14,6 +14,9 @@ body {
   margin: auto;
   display: flex;
   justify-content: center;
+
+  margin-top: 30px;
+  
 }
 
 .titulo {
@@ -22,6 +25,39 @@ body {
   margin: auto;
 
 }
+
+h7 {
+
+font-size: 13px;
+font-style: italic;
+}
+
+div {
+margin-left: auto;
+
+
+}
+
+
+img {
+
+  height: 40px;
+  width: 80px;
+  margin-top: 20px;
+}
+
+h1 {
+
+  text-align: left;
+  font-family: 'Shadows Into Light', cursive;
+  
+}
+.form box{
+
+  background-color: lightgray;
+
+}
+
 
 .box {
   padding: 10px;
